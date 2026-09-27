@@ -1,5 +1,79 @@
 # RAG
 
+CURRENT
+  │
+  ▼
+Phase 1: Basic RAG  ← YOU ARE HERE
+  ├── Retrieval inspection
+  ├── Top-K / similarity
+  ├── Source citations
+  ├── PDF ingestion
+  └── Reusable RAG pipeline
+        │
+        ▼
+Phase 2: Better Retrieval
+  ├── Better chunking
+  ├── Chunk overlap
+  ├── Cosine similarity
+  ├── Metadata filtering
+  └── Hybrid search
+        │
+        ▼
+Phase 3: Retrieval Evaluation
+  ├── Precision
+  ├── Recall
+  ├── MRR
+  └── Retrieval evaluation dataset
+        │
+        ▼
+Phase 4: Reranking
+  ├── Cross-encoder
+  └── Retrieve → Rerank → Context
+        │
+        ▼
+Phase 5: Query Enhancement
+  ├── Query rewriting
+  ├── Query expansion
+  ├── Multi-query
+  └── HyDE
+        │
+        ▼
+Phase 6: Advanced RAG
+  ├── Parent-child retrieval
+  ├── Multi-vector retrieval
+  ├── Metadata-aware RAG
+  └── Graph RAG
+        │
+        ▼
+Phase 7: Context Engineering
+  ├── Context compression
+  ├── Context ordering
+  ├── Deduplication
+  └── Lost-in-the-middle handling
+        │
+        ▼
+Phase 8: RAG Evaluation
+  ├── Faithfulness
+  ├── Answer relevance
+  ├── Context relevance
+  └── RAGAS / custom evaluation
+        │
+        ▼
+Phase 9: Production RAG
+  ├── FastAPI
+  ├── Database/vector DB
+  ├── Authentication
+  ├── Caching
+  ├── Logging
+  └── Monitoring
+        │
+        ▼
+Phase 10: Advanced / Agentic RAG
+  ├── Agents
+  ├── Tool calling
+  ├── Self-RAG
+  ├── Corrective RAG
+  └── Multi-agent RAG
 # RAG — Complete Learning & Implementation Process
 
 ## 0. Prerequisites
