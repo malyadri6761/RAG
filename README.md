@@ -1,5 +1,5 @@
 # RAG
-
+```
 CURRENT
   │
   ▼
@@ -74,6 +74,7 @@ Phase 10: Advanced / Agentic RAG
   ├── Self-RAG
   ├── Corrective RAG
   └── Multi-agent RAG
+```
 # RAG — Complete Learning & Implementation Process
 
 ## 0. Prerequisites
